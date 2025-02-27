@@ -1,0 +1,11 @@
+ Variável é o valor de memória dentro do computador que poderá ser acessado, alterado ou armazenado dentro da execução de algum programa, 
+ocupando a memória RAM (Random Access Memory) de sua máquina.
+ A variável possui dois atributos basilares: seu tipo e seu identificador (nome). Contudo, sua declaração poderá variar de linguagem de programação.
+Na linguagem C, que estamos estudando, sua atribuição funciona com:
+        tipo identificador = valor;
+ Onde "tipo" será algum valor estipulado pelo programador, como inteiro, real, literal, lógico etc. "Identificador" é o nome que aquela variável terá,
+sendo usado para chamá-la em alguma parte do programa. Ele pode receber qualquer nome, desde que não seja uma palavra-chave ou referência da linguagem.
+Além disso, o identificador não pode começar com um número ou caracteres especiais, entre outras regras que podem ser consultadas na documentação da linguagem.
+O símbolo "=" (igual) serve para atribuição de valores dentro da variável. A atribuição pode ocorrer na inicialização do programa, durante sua execução ou ser 
+definida pelo usuário.
+
