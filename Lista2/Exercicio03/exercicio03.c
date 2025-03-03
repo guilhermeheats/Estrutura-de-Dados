@@ -24,7 +24,6 @@ int main(int argc, char const *argv[])
             printf("- impár.\n");
         }
         
-        
     }
     
     return 0;
